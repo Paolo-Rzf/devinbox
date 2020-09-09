@@ -22,4 +22,3 @@ $(document).ready(function() {
         $('.card .img span').css('background-size', $('.card').width());
     })
 })
-
