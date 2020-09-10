@@ -220,6 +220,10 @@ h3, .h3 {
   width: 100%;
 }
 
+.header_area .menu_nav img {
+  width: 1rem;
+}
+
 .header_area .navbar {
   background: transparent;
   padding: 5px 0;
@@ -445,6 +449,11 @@ h3, .h3 {
   padding: 0px 40px;
   font-weight: 500;
   font-size: 12px;
+}
+
+.filter-white {
+  -webkit-filter: invert(93%) sepia(79%) saturate(1%) hue-rotate(307deg) brightness(102%) contrast(101%);
+          filter: invert(93%) sepia(79%) saturate(1%) hue-rotate(307deg) brightness(102%) contrast(101%);
 }
 
 /* header style end

@@ -43,6 +43,10 @@
     }
 .menu_nav{
   width: 100%;
+
+  img {
+    width: 1rem;
+  }
 }
   .navbar{
       background: transparent;
@@ -280,6 +284,10 @@ background: #ec9d5f;
     font-size: 12px;
   }
 }
+}
+
+.filter-white {
+  filter: invert(93%) sepia(79%) saturate(1%) hue-rotate(307deg) brightness(102%) contrast(101%);
 }
 
 /* header style end
